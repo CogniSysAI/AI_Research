@@ -102,15 +102,9 @@ The quest to prevent hallucinations in LLMs is emblematic of the broader challen
 ### References:
 
 [1] Brown, T. B., et al. "Language Models are Few-Shot Learners." *arXiv preprint arXiv:2005.14165* (2020).
-
 [2] Wang, A., et al. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *arXiv preprint arXiv:1810.04805* (2018).
-
 [3] Radford, A., et al. "Improving Language Understanding by Generative Pre-training."
-
 [4] Liu, Y., et al. "RoBERTa: A Robustly Optimized BERT Pretraining Approach." *arXiv preprint arXiv:1907.11692* (2019).
-
 [5] Smith, L. N. "A disciplined approach to neural network hyper-parameters: Part 1–learning rate, batch size, momentum, and weight decay." *arXiv preprint arXiv:1803.09820* (2018).
-
 [6] Vaswani, A., et al. "Attention is all you need." *Advances in neural information processing systems.* 2017.
-
 [7] Johnson, M., et al. "The role of redundancy in the robustness of language models." *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.* 2019.
