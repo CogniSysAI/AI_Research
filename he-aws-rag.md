@@ -259,30 +259,30 @@ Furthermore, engaging with stakeholders from diverse domains, such as healthcare
 In summary, the research presented in this paper lays the groundwork for secure and privacy-preserving Retrieval-Augmented Generation using homomorphic encryption and vector databases in AWS. By continuing to invest in research and development in this area, we can unlock the full potential of RAG models while safeguarding sensitive data, ultimately leading to more secure, trustworthy, and privacy-preserving AI systems.
 
 ## References:
-[1] Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., ... & Kiela, D. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. arXiv preprint arXiv:2005.11401.
-[2] Raisaro, J. L., Troncoso-Pastoriza, J. R., Misbach, M., Sousa, J. S., Pradervand, S., Missiaglia, E., ... & Hubaux, J. P. (2018). MedCo: Enabling privacy-conscious exploration of distributed clinical and genomic data. arXiv preprint arXiv:1811.01298.
-[3] Halevi, S., & Shoup, V. (2014). Algorithms in HElib. In Annual Cryptology Conference (pp. 554-571). Springer, Berlin, Heidelberg.
-[4] Gentry, C. (2009). Fully homomorphic encryption using ideal lattices. In Proceedings of the 41st annual ACM symposium on Theory of computing (pp. 169-178).
-[5] Guu, K., Lee, K., Tung, Z., Pasupat, P., & Chang, M. W. (2020). REALM: Retrieval-augmented language model pre-training. arXiv preprint arXiv:2002.08909.
-[6] Papernot, N., Abadi, M., Erlingsson, U., Goodfellow, I., & Talwar, K. (2016). Semi-supervised knowledge transfer for deep learning from private training data. arXiv preprint arXiv:1610.05755.
-[7] Papernot, N., Abadi, M., Erlingsson, U., Goodfellow, I., & Talwar, K. (2016). Semi-supervised knowledge transfer for deep learning from private training data. arXiv preprint arXiv:1610.05755.
-[8] Shokri, R., & Shmatikov, V. (2015). Privacy-preserving deep learning. In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security (pp. 1310-1321).
-[9] Gentry, C. (2009). A fully homomorphic encryption scheme (Doctoral dissertation, Stanford University).
-[10] Graepel, T., Lauter, K., & Naehrig, M. (2012). ML confidential: Machine learning on encrypted data. In International Conference on Information Security and Cryptology (pp. 1-21). Springer, Berlin, Heidelberg.
-[11] Amazon Web Services. (2021). Machine Learning on AWS. Retrieved from https://aws.amazon.com/machine-learning/
-[12] Shan, Z., Ren, K., Blanton, M., & Wang, C. (2018). Practical secure computation outsourcing: A survey. ACM Computing Surveys (CSUR), 51(2), 1-40.
-[13] Aloufi, R., Alharthi, H., & El Saddik, A. (2020). Privacy-preserving machine learning in cloud computing using homomorphic encryption and federated learning. In 2020 IEEE International Conference on Cloud Engineering (IC2E) (pp. 196-203). IEEE.
-[14] Amazon Web Services. (2021). Amazon S3 - Object Storage. Retrieved from https://aws.amazon.com/s3/
-[15] Amazon Web Services. (2021). Amazon EBS - Secure and Resizable Block Storage. Retrieved from https://aws.amazon.com/ebs/
-[16] Amazon Web Services. (2021). Amazon EC2 - Secure and Resizable Compute Capacity. Retrieved from https://aws.amazon.com/ec2/
-[17] Amazon Web Services. (2021). AWS Lambda - Serverless Compute. Retrieved from https://aws.amazon.com/lambda/
-[18] Smart, N. P., & Vercauteren, F. (2014). Fully homomorphic SIMD operations. Designs, Codes and Cryptography, 71(1), 57-81.
-[19] Wikipedia. (2021). Wikipedia: The Free Encyclopedia. Retrieved from https://www.wikipedia.org/
-[20] Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
-[21] Papineni, K., Roukos, S., Ward, T., & Zhu, W. J. (2002). BLEU: a method for automatic evaluation of machine translation. In Proceedings of the 40th annual meeting of the Association for Computational Linguistics (pp. 311-318).
-[22] Jelinek, F., Mercer, R. L., Bahl, L. R., & Baker, J. K. (1977). Perplexity—a measure of the difficulty of speech recognition tasks. The Journal of the Acoustical Society of America, 62(S1), S63-S63.
-[23] Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. In Theory of cryptography conference (pp. 265-284). Springer, Berlin, Heidelberg.
-[24] Yang, Q., Liu, Y., Chen, T., & Tong, Y. (2019). Federated machine learning: Concept and applications. ACM Transactions on Intelligent Systems and Technology (TIST), 10(2), 1-19.
-[25] Gentry, C. (2009). Fully homomorphic encryption using ideal lattices. In Proceedings of the forty-first annual ACM symposium on Theory of computing (pp. 169-178).
-[26] Shamir, A. (1979). How to share a secret. Communications of the ACM, 22(11), 612-613.
-[27] Han, S., Mao, H.,& Dally, W. J. (2015). Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. arXiv preprint arXiv:1510.00149.
+[1] Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., ... & Kiela, D. (2020). Retrieval-augmented generation for knowledge-intensive NLP tasks. arXiv preprint arXiv:2005.11401.  
+[2] Raisaro, J. L., Troncoso-Pastoriza, J. R., Misbach, M., Sousa, J. S., Pradervand, S., Missiaglia, E., ... & Hubaux, J. P. (2018). MedCo: Enabling privacy-conscious exploration of distributed clinical and genomic data. arXiv preprint arXiv:1811.01298.  
+[3] Halevi, S., & Shoup, V. (2014). Algorithms in HElib. In Annual Cryptology Conference (pp. 554-571). Springer, Berlin, Heidelberg.  
+[4] Gentry, C. (2009). Fully homomorphic encryption using ideal lattices. In Proceedings of the 41st annual ACM symposium on Theory of computing (pp. 169-178).  
+[5] Guu, K., Lee, K., Tung, Z., Pasupat, P., & Chang, M. W. (2020). REALM: Retrieval-augmented language model pre-training. arXiv preprint arXiv:2002.08909.  
+[6] Papernot, N., Abadi, M., Erlingsson, U., Goodfellow, I., & Talwar, K. (2016). Semi-supervised knowledge transfer for deep learning from private training data. arXiv preprint arXiv:1610.05755.  
+[7] Papernot, N., Abadi, M., Erlingsson, U., Goodfellow, I., & Talwar, K. (2016). Semi-supervised knowledge transfer for deep learning from private training data. arXiv preprint arXiv:1610.05755.  
+[8] Shokri, R., & Shmatikov, V. (2015). Privacy-preserving deep learning. In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security (pp. 1310-1321).  
+[9] Gentry, C. (2009). A fully homomorphic encryption scheme (Doctoral dissertation, Stanford University).  
+[10] Graepel, T., Lauter, K., & Naehrig, M. (2012). ML confidential: Machine learning on encrypted data. In International Conference on Information Security and Cryptology (pp. 1-21). Springer, Berlin, Heidelberg.  
+[11] Amazon Web Services. (2021). Machine Learning on AWS. Retrieved from https://aws.amazon.com/machine-learning/  
+[12] Shan, Z., Ren, K., Blanton, M., & Wang, C. (2018). Practical secure computation outsourcing: A survey. ACM Computing Surveys (CSUR), 51(2), 1-40.  
+[13] Aloufi, R., Alharthi, H., & El Saddik, A. (2020). Privacy-preserving machine learning in cloud computing using homomorphic encryption and federated learning. In 2020 IEEE International Conference on Cloud Engineering (IC2E) (pp. 196-203). IEEE.  
+[14] Amazon Web Services. (2021). Amazon S3 - Object Storage. Retrieved from https://aws.amazon.com/s3/  
+[15] Amazon Web Services. (2021). Amazon EBS - Secure and Resizable Block Storage. Retrieved from https://aws.amazon.com/ebs/  
+[16] Amazon Web Services. (2021). Amazon EC2 - Secure and Resizable Compute Capacity. Retrieved from https://aws.amazon.com/ec2/  
+[17] Amazon Web Services. (2021). AWS Lambda - Serverless Compute. Retrieved from https://aws.amazon.com/lambda/  
+[18] Smart, N. P., & Vercauteren, F. (2014). Fully homomorphic SIMD operations. Designs, Codes and Cryptography, 71(1), 57-81.  
+[19] Wikipedia. (2021). Wikipedia: The Free Encyclopedia. Retrieved from https://www.wikipedia.org/  
+[20] Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.  
+[21] Papineni, K., Roukos, S., Ward, T., & Zhu, W. J. (2002). BLEU: a method for automatic evaluation of machine translation. In Proceedings of the 40th annual meeting of the Association for Computational Linguistics (pp. 311-318).  
+[22] Jelinek, F., Mercer, R. L., Bahl, L. R., & Baker, J. K. (1977). Perplexity—a measure of the difficulty of speech recognition tasks. The Journal of the Acoustical Society of America, 62(S1), S63-S63.  
+[23] Dwork, C., McSherry, F., Nissim, K., & Smith, A. (2006). Calibrating noise to sensitivity in private data analysis. In Theory of cryptography conference (pp. 265-284). Springer, Berlin, Heidelberg.  
+[24] Yang, Q., Liu, Y., Chen, T., & Tong, Y. (2019). Federated machine learning: Concept and applications. ACM Transactions on Intelligent Systems and Technology (TIST), 10(2), 1-19.  
+[25] Gentry, C. (2009). Fully homomorphic encryption using ideal lattices. In Proceedings of the forty-first annual ACM symposium on Theory of computing (pp. 169-178).  
+[26] Shamir, A. (1979). How to share a secret. Communications of the ACM, 22(11), 612-613.  
+[27] Han, S., Mao, H.,& Dally, W. J. (2015). Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. arXiv preprint arXiv:1510.00149.  
