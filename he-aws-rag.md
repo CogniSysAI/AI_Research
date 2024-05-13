@@ -1,6 +1,8 @@
 # DRAFT
 
 # Secure Retrieval-Augmented Generation with Homomorphic Encryption and Vector Databases in AWS
+## Author: Jascha Wanger - jascha@cognisys.io
+### Date: May 9, 2024
 
 ## 1. Introduction
 
